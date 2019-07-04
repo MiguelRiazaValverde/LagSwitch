@@ -1,0 +1,1 @@
+Launch LagSwitch.sh, LagSwitch.bat or LagSwitch.jar.
