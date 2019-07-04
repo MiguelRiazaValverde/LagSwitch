@@ -1,5 +1,5 @@
 # LagSwitch
-Software to produce lag by flood.
+Software to produce lag by flood. The program compiled in Java can be found in the 'dist' folder.
 
 ## Configuration
 ### 1. HotKey.
