@@ -1,5 +1,5 @@
 # LagSwitch
-Software to produce lag.
+Software to produce lag by flood.
 
 ## Configuration
 ### 1. HotKey.
