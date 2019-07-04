@@ -22,3 +22,7 @@ It shows the current configuration and the number of messages sent. This stops t
 
 ### 7. Exit.
 Close the program.
+
+## Example
+### Ping
+![ping to google with lag](./gifs/ping.gif)
