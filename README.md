@@ -25,4 +25,5 @@ Close the program.
 
 ## Example
 ### Ping
+Checking the lag with a ping.
 ![ping to google with lag](./gifs/ping.gif)
